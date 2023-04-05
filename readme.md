@@ -5,6 +5,6 @@
 
 - in REPL:
 ```scheme
-(load "simply.com")
+(load "simply.scm")
 ;;; note double-quotes
 ```
